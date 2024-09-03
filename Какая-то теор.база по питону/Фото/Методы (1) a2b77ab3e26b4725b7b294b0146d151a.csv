@@ -1,0 +1,9 @@
+﻿Метод,Что делает
+"heapq.heappush(heap, push)","Поместить элемент в кучу, сохраняя порядок"
+heapq.heappop(heap),"Достает и возвращает наименьший элемент кучи, сохраняя порядок. Если куча пуста — IndexError. Без удаления — heap[0]"
+"heapq.heappushpop(heap, item)","Быстрее, чем heappush() + heappop()"
+heapq.heapify(x),Преобразовать список в кучу
+"heapq.heapreplace(heap, item)","pop наименьший элемент из кучи и push item. Размер кучи не меняется. Если куча пуста — IndexError. Быстрее, чем heappush() + heappop()/ Подходит для использования кучи фиксированного размера"
+"heap.merge(*iterables, key=None, reverse=False)",Объединить несколько в одну отсортированную
+"heapq.nlargset(n, iterable, key=None)",Вернуть список с n самыми большими элементами из iterable
+"heapq.nsmallest(n, iterable, key=None)",Аналогично наименьшие
