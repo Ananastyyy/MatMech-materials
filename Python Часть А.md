@@ -1128,7 +1128,3 @@ with ореn(“filе“) аs f:
 [ ]	`range(10)`
 [ ]	`list([1])`
 [ ]	`print(1, 2)`
-
-[Python. Часть В](https://www.notion.so/Python-06e16114218b45ac9b7d9885ec7aa142?pvs=21)
-
-[Python. Часть С](https://www.notion.so/Python-20c3cf30afcd466199523773b4461e35?pvs=21)
